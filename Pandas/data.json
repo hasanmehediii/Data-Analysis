@@ -1,0 +1,282 @@
+[
+    {
+        "No": 1,
+        "Name": "Lionel Messi",
+        "Position": "Forward",
+        "Club": "Inter Miami",
+        "Country": "Argentina"
+    },
+    {
+        "No": 2,
+        "Name": "Cristiano Ronaldo",
+        "Position": "Forward",
+        "Club": "Al Nassr",
+        "Country": "Portugal"
+    },
+    {
+        "No": 3,
+        "Name": "Kylian Mbappé",
+        "Position": "Forward",
+        "Club": "Real Madrid",
+        "Country": "France"
+    },
+    {
+        "No": 4,
+        "Name": "Erling Haaland",
+        "Position": "Forward",
+        "Club": "Manchester City",
+        "Country": "Norway"
+    },
+    {
+        "No": 5,
+        "Name": "Kevin De Bruyne",
+        "Position": "Midfielder",
+        "Club": "Manchester City",
+        "Country": "Belgium"
+    },
+    {
+        "No": 6,
+        "Name": "Luka Modrić",
+        "Position": "Midfielder",
+        "Club": "Real Madrid",
+        "Country": "Croatia"
+    },
+    {
+        "No": 7,
+        "Name": "Jude Bellingham",
+        "Position": "Midfielder",
+        "Club": "Real Madrid",
+        "Country": "England"
+    },
+    {
+        "No": 8,
+        "Name": "Pedri",
+        "Position": "Midfielder",
+        "Club": "Barcelona",
+        "Country": "Spain"
+    },
+    {
+        "No": 9,
+        "Name": "Robert Lewandowski",
+        "Position": "Forward",
+        "Club": "Barcelona",
+        "Country": "Poland"
+    },
+    {
+        "No": 10,
+        "Name": "Neymar Jr",
+        "Position": "Forward",
+        "Club": "Al Hilal",
+        "Country": "Brazil"
+    },
+    {
+        "No": 11,
+        "Name": "Vinícius Jr",
+        "Position": "Forward",
+        "Club": "Real Madrid",
+        "Country": "Brazil"
+    },
+    {
+        "No": 12,
+        "Name": "Mohamed Salah",
+        "Position": "Forward",
+        "Club": "Liverpool",
+        "Country": "Egypt"
+    },
+    {
+        "No": 13,
+        "Name": "Harry Kane",
+        "Position": "Forward",
+        "Club": "Bayern Munich",
+        "Country": "England"
+    },
+    {
+        "No": 14,
+        "Name": "Virgil van Dijk",
+        "Position": "Defender",
+        "Club": "Liverpool",
+        "Country": "Netherlands"
+    },
+    {
+        "No": 15,
+        "Name": "Rúben Dias",
+        "Position": "Defender",
+        "Club": "Manchester City",
+        "Country": "Portugal"
+    },
+    {
+        "No": 16,
+        "Name": "Achraf Hakimi",
+        "Position": "Defender",
+        "Club": "Paris Saint-Germain",
+        "Country": "Morocco"
+    },
+    {
+        "No": 17,
+        "Name": "Alisson Becker",
+        "Position": "Goalkeeper",
+        "Club": "Liverpool",
+        "Country": "Brazil"
+    },
+    {
+        "No": 18,
+        "Name": "Thibaut Courtois",
+        "Position": "Goalkeeper",
+        "Club": "Real Madrid",
+        "Country": "Belgium"
+    },
+    {
+        "No": 19,
+        "Name": "Rodri",
+        "Position": "Midfielder",
+        "Club": "Manchester City",
+        "Country": "Spain"
+    },
+    {
+        "No": 20,
+        "Name": "Bukayo Saka",
+        "Position": "Forward",
+        "Club": "Arsenal",
+        "Country": "England"
+    },
+    {
+        "No": 21,
+        "Name": "Bruno Fernandes",
+        "Position": "Midfielder",
+        "Club": "Manchester United",
+        "Country": "Portugal"
+    },
+    {
+        "No": 22,
+        "Name": "Marcus Rashford",
+        "Position": "Forward",
+        "Club": "Manchester United",
+        "Country": "England"
+    },
+    {
+        "No": 23,
+        "Name": "Casemiro",
+        "Position": "Midfielder",
+        "Club": "Manchester United",
+        "Country": "Brazil"
+    },
+    {
+        "No": 24,
+        "Name": "Frenkie de Jong",
+        "Position": "Midfielder",
+        "Club": "Barcelona",
+        "Country": "Netherlands"
+    },
+    {
+        "No": 25,
+        "Name": "Antoine Griezmann",
+        "Position": "Forward",
+        "Club": "Atletico Madrid",
+        "Country": "France"
+    },
+    {
+        "No": 26,
+        "Name": "Jan Oblak",
+        "Position": "Goalkeeper",
+        "Club": "Atletico Madrid",
+        "Country": "Slovenia"
+    },
+    {
+        "No": 27,
+        "Name": "Son Heung-min",
+        "Position": "Forward",
+        "Club": "Tottenham Hotspur",
+        "Country": "South Korea"
+    },
+    {
+        "No": 28,
+        "Name": "Martin Ødegaard",
+        "Position": "Midfielder",
+        "Club": "Arsenal",
+        "Country": "Norway"
+    },
+    {
+        "No": 29,
+        "Name": "Declan Rice",
+        "Position": "Midfielder",
+        "Club": "Arsenal",
+        "Country": "England"
+    },
+    {
+        "No": 30,
+        "Name": "Gabriel Jesus",
+        "Position": "Forward",
+        "Club": "Arsenal",
+        "Country": "Brazil"
+    },
+    {
+        "No": 31,
+        "Name": "João Cancelo",
+        "Position": "Defender",
+        "Club": "Barcelona",
+        "Country": "Portugal"
+    },
+    {
+        "No": 32,
+        "Name": "Trent Alexander-Arnold",
+        "Position": "Defender",
+        "Club": "Liverpool",
+        "Country": "England"
+    },
+    {
+        "No": 33,
+        "Name": "Andrew Robertson",
+        "Position": "Defender",
+        "Club": "Liverpool",
+        "Country": "Scotland"
+    },
+    {
+        "No": 34,
+        "Name": "Manuel Neuer",
+        "Position": "Goalkeeper",
+        "Club": "Bayern Munich",
+        "Country": "Germany"
+    },
+    {
+        "No": 35,
+        "Name": "Joshua Kimmich",
+        "Position": "Midfielder",
+        "Club": "Bayern Munich",
+        "Country": "Germany"
+    },
+    {
+        "No": 36,
+        "Name": "Jamal Musiala",
+        "Position": "Midfielder",
+        "Club": "Bayern Munich",
+        "Country": "Germany"
+    },
+    {
+        "No": 37,
+        "Name": "Khvicha Kvaratskhelia",
+        "Position": "Forward",
+        "Club": "Napoli",
+        "Country": "Georgia"
+    },
+    {
+        "No": 38,
+        "Name": "Victor Osimhen",
+        "Position": "Forward",
+        "Club": "Napoli",
+        "Country": "Nigeria"
+    },
+    {
+        "No": 39,
+        "Name": "Paulo Dybala",
+        "Position": "Forward",
+        "Club": "AS Roma",
+        "Country": "Argentina"
+    },
+    {
+        "No": 40,
+        "Name": "Gianluigi Donnarumma",
+        "Position": "Goalkeeper",
+        "Club": "Paris Saint-Germain",
+        "Country": "Italy"
+    }
+]
